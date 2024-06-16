@@ -53,4 +53,4 @@ So unlike CryptSite v.1.0.3 which stopped because it was unable to encrypt many 
 
 **Warning: This tool is intended for educational purposes only. Misuse of this tool for malicious purposes, such as unauthorized data encryption, is illegal and unethical. Always use cybersecurity tools responsibly and within the boundaries of the law.**
 
-Encrypt everything with Crypt Slot v.2.0.3 ransomware!
+Encrypt everything with CryptSite v.2.0.3 ransomware!
