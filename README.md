@@ -46,11 +46,14 @@ Decrypts data in each column in each table that has been encrypted using `encryp
 - **Automated Process**: Fully automated encryption and decryption process, making execution and management easy.
 
 ---
-### **Web PHP Integration with Terminal-like Environment**
-Using CryptSite PHP Shell Terminal, you can integrate CryptSite v.2.0.3 scripts into a PHP web environment. This terminal allows script execution directly from the web interface, providing full control over encryption and decryption of files and databases over the web.
+### **Web Integration with Terminal-like Environment**
+Using CryptSite Shell Terminal, you can integrate CryptSite v.2.0.3 scripts into a PHP web environment. This terminal allows script execution directly from the web interface, providing full control over encryption and decryption of files and databases over the web.
 
 So unlike CryptSite v.1.0.3 which stopped because it was unable to encrypt many files at once, this version allows encryption and execution to be carried out simultaneously without problems. This script not only avoids file corruption but also ensures the server remains stable throughout the process.
 
 **Warning: This tool is intended for educational purposes only. Misuse of this tool for malicious purposes, such as unauthorized data encryption, is illegal and unethical. Always use cybersecurity tools responsibly and within the boundaries of the law.**
 
 Encrypt everything with CryptSite v.2.0.3 ransomware!
+
+
+**[Not For Sell]**
