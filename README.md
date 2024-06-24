@@ -1,4 +1,4 @@
-Video Demo ( Coming Soon }
+
 
 ![anime-girl](https://github.com/hy011121/CryptSite-v.2.0.3-Ransomware/assets/75035965/494b880c-fd59-4012-bcaa-30eec91acf65)
 
